@@ -1,0 +1,11 @@
+.list{
+    font-size: 15px;
+    color: black;
+}
+li{
+    border-width: thin;
+    border-style: solid;
+    border-color: gray;
+    width: 100px;
+  
+}
